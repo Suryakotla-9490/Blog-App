@@ -1,0 +1,42 @@
+/* .follo{
+    display: flex;
+    padding-left: 50%;
+    
+} */
+.bthn-fo{
+   margin-right: 6px;
+    text-align: center;
+    height: 26px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(241, 50, 50);
+    
+}
+.alluser-containter{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.user-card{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid  rgb(249, 173, 173);
+    width:50%;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.follow-card{
+    display: flex;
+   justify-content: space-around;
+   padding: 40px;
+}
+.underlinr{
+    width: 75%;
+    padding-left:290px;
+}
+.follo{
+    padding-left: 380px;
+    margin-top: 87px;
+}

@@ -1,0 +1,32 @@
+
+ /* .bthn{
+    padding-bottom:10px ;
+    border: none;
+    border-radius: 6px;
+    text-align: center;
+    height: 20px;
+    background-color: rgb(241, 50, 50);
+    
+   
+}  */
+ .user{
+    padding-left: 3%;
+    width: 300%;
+    margin-bottom: 20px;
+} 
+.cont-bio{
+    display: flex;
+}
+.follo-btnh{
+    margin-left: 300px;
+   
+    
+}
+.bthns{
+    background-color: rgb(241, 50, 50);
+    border: none;
+    border-radius: 8px;
+}
+.arj-cir{
+    display: flex;
+}

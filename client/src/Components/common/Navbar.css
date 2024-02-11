@@ -1,0 +1,30 @@
+.navbars{
+    box-shadow: 10px 10px 5px rgb(181, 173, 173);
+    display: flex;
+
+}
+/* .navbar-nav{
+    justify-content: space-between;
+    padding-left: 700%;
+    gap: 49%;
+} */
+.nav{
+    padding-left: 30%;
+    color: rgb(249, 173, 173);
+
+}
+.nav-item, .nav-item>button{
+    font-size: 18px;
+    font-weight: 600;
+    margin: 5px;
+}
+.nav-item>button{
+    background-color: aliceblue;
+    border: 1px solid  rgb(249, 173, 173);
+}
+.nav-item>button:hover{
+    background-color:  rgb(249, 173, 173);
+    border: 1px solid  black;
+    color: white !important;
+
+}
